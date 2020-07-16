@@ -1,0 +1,40 @@
+.quoteBlock {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.quote {
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 160%;
+    letter-spacing: 0.01em;
+    color: #000000;
+    font-family: 'NewYorkSmallRegularItalic';
+    margin-bottom: 60px;
+}
+
+.quote::before {
+    display: block;
+    content: '\201C';
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+    font-size: 80px;
+    left: -90px;
+    color: var(--primary-color);
+}
+
+.quoteAuthor {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 160%;
+    letter-spacing: 0.01em;
+    color: #000000;
+}
+
+.hide {
+    opacity: 0;
+}

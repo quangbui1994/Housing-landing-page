@@ -1,0 +1,25 @@
+import HeroImage from '../../assets/img/HeroImage.jpg';
+import Image1 from '../../assets/img/img-01.jpg';
+import Image2 from '../../assets/img/img-02.jpg';
+import Image3 from '../../assets/img/img-03.jpg';
+import Image4 from '../../assets/img/img-04.jpg';
+import Image5 from '../../assets/img/img-05.jpg';
+import Room5 from '../../assets/img/room-05.jpg';
+import Room6 from '../../assets/img/room-06.jpg';
+import Room7 from '../../assets/img/room-07.jpg';
+import Room8 from '../../assets/img/room-08.jpg';
+import Room9 from '../../assets/img/room-09.jpg';
+import Room10 from '../../assets/img/room-10.jpg';
+import Logo1 from '../../assets/img/logo-1.png';
+import Logo2 from '../../assets/img/logo-2.png';
+import Logo3 from '../../assets/img/logo-3.png';
+import Logo4 from '../../assets/img/logo-4.png';
+import Logo5 from '../../assets/img/logo-5.png';
+import { ReactComponent as BackArrow } from '../../assets/img/back-arrow.svg';
+import { ReactComponent as ForwardArrow } from '../../assets/img/forward-arrow.svg';
+import { ReactComponent as Icon1 } from '../../assets/img/Icon1.svg';
+import { ReactComponent as Icon2 } from '../../assets/img/Icon2.svg';
+import { ReactComponent as Icon3 } from '../../assets/img/Icon3.svg';
+import { ReactComponent as House } from '../../assets/img/house.svg';
+
+export { House, Icon3, Icon2, Icon1, ForwardArrow, BackArrow, HeroImage, Image1, Image2, Image3, Image4, Image5, Room5, Room6, Room7, Room8, Room9, Room10, Logo1, Logo2, Logo3, Logo4, Logo5 } ;

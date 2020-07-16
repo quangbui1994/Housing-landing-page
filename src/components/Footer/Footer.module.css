@@ -1,0 +1,46 @@
+.Footer {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 208px;
+    padding: var(--padding-top) var(--padding-left);
+    background: rgba(0, 0, 0, 0.03);
+}
+
+.Footer ul {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    margin-right: auto;
+}
+
+.Footer li {
+    font-size: 12px;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #585858;
+}
+
+.logo {
+    width: 6.1rem;
+    height: 2.8rem;
+    position: relative;
+    cursor: pointer;
+}
+
+.topLogo {
+    width: 45.74px;
+    height: 15.62px;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+
+.bottomLogo {
+    left: 10px;
+    top: 17px;
+    width: 50.86px;
+    height: 10.63px;
+    position: absolute;
+}
