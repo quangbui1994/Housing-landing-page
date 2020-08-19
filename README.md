@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The page could be found [here](https://housing-landing-page.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
